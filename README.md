@@ -1,0 +1,1 @@
+The file contains a flask app for recording notes. It consists of static files used to style the templates within the templates folder. The note app can add a update and remove notes .. the functions are defined on the blog.py file..it also has a database where users details such as emails username and passwords are kept ..this is a fully functional flask note app
